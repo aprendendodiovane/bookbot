@@ -1,2 +1,3 @@
-# bookbot
+# Bookbot
+
 A book bot
